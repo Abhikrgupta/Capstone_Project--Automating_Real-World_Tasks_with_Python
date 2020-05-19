@@ -1,1 +1,1 @@
-
+This is the 4th and final week lab of the Capstone Project: The lab named- Automate updating catalog information. Refer to this program if you get stuck somewhere in between the lab and Do not edit the file
